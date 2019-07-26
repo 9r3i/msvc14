@@ -76,6 +76,9 @@
     "contains":[
       "msvc.ai"
     ],
+    "requires":[
+      "vc14"
+    ],
     "authors":[
       "Abu Ayyub"
     ]
