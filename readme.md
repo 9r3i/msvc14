@@ -11,7 +11,7 @@
 - I collect these files for common problem among my friends.
 - While they were asking for help, the problem is always be the same, that some dynamic library (*.dll files) is missing.
 - Besides, they have installed the MSVCR 2015 and 2017 from official website.
-- Usually for using PHP 7.x or Apache2 in Windows OS only.
+- Usually for using PHP 7.x or Apache2 in Windows OS 32bit only.
 
 
 # Installation
