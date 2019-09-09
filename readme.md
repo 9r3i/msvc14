@@ -17,6 +17,12 @@
 # Installation
 - The best way is install MSVCR from official website (recommended). https://www.microsoft.com/en-us/download/details.aspx?id=48145
 - For any application in Windows OS that requires MSVCR 14, simply copy the 59 files in directory vc14, then paste in the directory where the binary is.
-- For AI users, simply use command: ```$ ai install ext.msvc```
+- For AI users, simply use command:
 
+```
+$ ai pkg add repository 9r3i/vc14
+$ ai install ext.msvc
+```
+
+- Use ```$ ai msvc help``` for more detail.
 
