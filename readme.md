@@ -16,6 +16,7 @@
 
 # Installation
 - The best way is install MSVCR from official website (recommended). https://www.microsoft.com/en-us/download/details.aspx?id=48145
+- Or the latest update: https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 - For any application in Windows OS that requires MSVCR 14, simply copy the 59 files in directory vc14, then paste in the directory where the binary is.
 - For AI users, simply use command:
 
